@@ -1,5 +1,5 @@
 # Tweets Parser
-## A parser for tweets collected via the Twitter API, using the (search_tweets)[https://github.com/twitterdev/search-tweets-python] helper.
+A parser for tweets collected via the Twitter API, using the (search_tweets)[https://github.com/twitterdev/search-tweets-python] helper.
 
 ### How to run
 - Follow the inscrutions in the search tweets repository to collect the desired tweets.
