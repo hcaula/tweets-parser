@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/prod.json
+  consumer_key: SUA_CHAVE_DA_API
+  consumer_secret: SEU_SECRET_DA_API

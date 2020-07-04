@@ -5,7 +5,7 @@ search_rules:
 
 search_params:
   results-per-call: 100
-  max-results: 200
+  max-results: 100
 
 output_params:
   save_file: True
